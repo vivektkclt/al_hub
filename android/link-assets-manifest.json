@@ -1,0 +1,69 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/ArchivoNarrow-Bold.ttf",
+      "sha1": "e9ed564b21e76967cc2705b579def38b2515f790"
+    },
+    {
+      "path": "assets/fonts/ArchivoNarrow-BoldItalic.ttf",
+      "sha1": "82cc1e852fb06237d5aeb498584ffbe50bc9086b"
+    },
+    {
+      "path": "assets/fonts/ArchivoNarrow-Italic-VariableFont_wght.ttf",
+      "sha1": "cb5e08332805102c145474c1e07dfd6e6741c612"
+    },
+    {
+      "path": "assets/fonts/ArchivoNarrow-Italic.ttf",
+      "sha1": "a325f707954bc6bcc3901f3420964f2dae97cfea"
+    },
+    {
+      "path": "assets/fonts/ArchivoNarrow-Medium.ttf",
+      "sha1": "e904f8c62d7511d3cfe133ccf731877d933cadc3"
+    },
+    {
+      "path": "assets/fonts/ArchivoNarrow-MediumItalic.ttf",
+      "sha1": "27dce4e05b1ca89e973a8b640eef005bd42ab07a"
+    },
+    {
+      "path": "assets/fonts/ArchivoNarrow-Regular.ttf",
+      "sha1": "5938d462dc34a82be52de2de5439e0fe2ab0885a"
+    },
+    {
+      "path": "assets/fonts/ArchivoNarrow-SemiBold.ttf",
+      "sha1": "4b7d5edff5a6d85b97598f7940b8db127bfbde41"
+    },
+    {
+      "path": "assets/fonts/ArchivoNarrow-SemiBoldItalic.ttf",
+      "sha1": "c844acacaa096f524cc5f9537797d8d33208b08a"
+    },
+    {
+      "path": "assets/fonts/ArchivoNarrow-VariableFont_wght.ttf",
+      "sha1": "cfd1ecbcab36562707263951620f2a4348fcc5c8"
+    },
+    {
+      "path": "assets/fonts/Courgette-Regular.ttf",
+      "sha1": "0e6826b92f8f80fe2eb803bdef7d81355845e283"
+    },
+    {
+      "path": "assets/fonts/Open Sans Regular.ttf",
+      "sha1": "3564ed0b5363df5cf277c16e0c6bedc5a682217f"
+    },
+    {
+      "path": "assets/fonts/Poppins-Regular.ttf",
+      "sha1": "fdd3002e7d814ee47c1c1b8487c72c6bbb3a2d00"
+    },
+    {
+      "path": "assets/fonts/Poppins-SemiBold.ttf",
+      "sha1": "8a4ace9392d06bcb7f8ea2f5169b07e4c383a90d"
+    },
+    {
+      "path": "assets/fonts/TheNautigal-Bold.ttf",
+      "sha1": "8bf72a17c89ecfb65fa3d1c741d28a8c9f1fabfa"
+    },
+    {
+      "path": "assets/fonts/TheNautigal-Regular.ttf",
+      "sha1": "686fa72de8888dcb998b6f1c81c9bb023fc0888d"
+    }
+  ]
+}

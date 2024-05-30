@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>AlHub</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>$(PRODUCT_NAME)</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>$(MARKETING_VERSION)</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>Bundle Id</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+			    <string>com.googleusercontent.apps.523767493676-usk6bdtlvb8rdk9g1e2btckeqi517c8b</string>
+				<string>org.reactjs.native.example.AlHub</string>
+			</array>
+		</dict>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>$(CURRENT_PROJECT_VERSION)</string>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>tel</string>
+		<string>telprompt</string>
+		<string>uber</string>
+	</array>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+		<key>NSExceptionDomains</key>
+		<dict>
+			<key>localhost</key>
+			<dict>
+				<key>NSExceptionAllowsInsecureHTTPLoads</key>
+				<true/>
+			</dict>
+		</dict>
+	</dict>
+	<key>NSCameraUsageDescription</key>
+	<string>AlHub requires camera access for capturing and uploading pictures, including profile pictures and images related to shops, to enhance your experience on the platform</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Location Permission is required to find the stores and services near you</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Location Permission is required to find the stores and services near you</string>
+	<key>NSLocationUsageDescription</key>
+	<string>GPS data is required to find the stores and services near you</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Location Permission is required to find the stores and services near you</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>AlHub needs to access your gallery to pick pictures</string>
+	<key>Privacy – Camera Usage Description</key>
+	<string>AlHub needs to access your camera to take pictures</string>
+	<key>Privacy – Photo Library Additions Usage Description</key>
+	<string>AlHub needs to access your gallery to pick pictures</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Poppins-SemiBold.ttf</string>
+		<string>Open Sans Regular.ttf</string>
+		<string>Poppins-Regular.ttf</string>
+		<string>TheNautigal-Bold.ttf</string>
+		<string>TheNautigal-Regular.ttf</string>
+		<string>Courgette-Regular.ttf</string>
+		<string>ArchivoNarrow-Bold.ttf</string>
+		<string>ArchivoNarrow-BoldItalic.ttf</string>
+		<string>ArchivoNarrow-Italic-VariableFont_wght.ttf</string>
+		<string>ArchivoNarrow-Italic.ttf</string>
+		<string>ArchivoNarrow-Medium.ttf</string>
+		<string>ArchivoNarrow-MediumItalic.ttf</string>
+		<string>ArchivoNarrow-Regular.ttf</string>
+		<string>ArchivoNarrow-SemiBold.ttf</string>
+		<string>ArchivoNarrow-SemiBoldItalic.ttf</string>
+		<string>ArchivoNarrow-VariableFont_wght.ttf</string>
+	</array>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>armv7</string>
+	</array>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+</dict>
+</plist>
